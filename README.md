@@ -1,5 +1,7 @@
 # cljs-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/cljs-react-example.svg)](https://greenkeeper.io/)
+
 Simple example of using React from ClojureScript directly. Using the new `node_modules` integration found in version `1.9.854`.
 
 ## Usage
